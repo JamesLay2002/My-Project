@@ -1,0 +1,23 @@
+h1 {
+  color:Purple;
+  font-family:calibri;
+  border: 2px solid black
+  }
+
+p {
+  font-family:calibri;
+}
+
+h3 {
+  color:blue;
+  font-family:calibri;
+  border: 2px solid black
+}
+
+body {
+  background-color: turquoise;
+}
+
+img {
+  border: 5px solid black;
+  }
